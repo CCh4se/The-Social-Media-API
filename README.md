@@ -1,7 +1,7 @@
 # The Social Media API
 
 ## Description
-The Social Media application app has APIs that get, update, delete, the thoughts and moods. This application allows the user to add and remove a follower and interact with the thoughts and moods as well. 
+The Social Media application  has APIs that get, update, delete, the thoughts and moods. This application allows the user to add and remove a follower and interact with the thoughts and moods as well. 
 
 ## Installation
 Once you clone the repo make sure to run npm i
