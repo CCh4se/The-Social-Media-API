@@ -56,3 +56,9 @@ const thoughtSchema = new Schema ({
     id: false,
 },
 )
+
+// having issue with the count
+
+const thought = model('thought', thoughtSchema);
+
+module.exports = thought;
